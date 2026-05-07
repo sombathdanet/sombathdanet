@@ -12,7 +12,7 @@
 ### 💫 My Creative Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,android,ios,figma,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,android,ios" />
 </p>
 
 
