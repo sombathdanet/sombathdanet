@@ -15,12 +15,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,android,ios,figma,firebase" />
 </p>
 
-### 🌪 Motion & Animation
-- 🎞️ Enthusiast of **Telegram-style** complex animations.
-- 🧊 Expert in **Blur effects** and **Collapsing Toolbar** transitions.
-- 🎨 Aiming for perfection in every micro-interaction.
-
----
 
 ### 📫 Let's Connect
 <p align="left">
