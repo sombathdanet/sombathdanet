@@ -15,19 +15,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,android,ios,figma,firebase" />
 </p>
 
-### 🛠 Projects & Focus
-- 🚀 **Current Build:** Refactoring **DRSB Express** with high-performance logistics tracking.
-- ☕ **Beta Phase:** Developing a **Cafe POS** system with a focus on liquid-smooth transitions.
-- ✨ **Specialty:** Implementation of **Liquid Glass** UI and **Bento-Skeuomorphism** in Flutter.
-
----
-
-### 📊 Performance Metrics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sombathdanet&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sombathdanet&layout=compact&theme=transparent&hide_border=true&title_color=ff0055&icon_color=ff0055&text_color=ffffff&bg_color=00000000" />
-</p>
-
 ### 🌪 Motion & Animation
 - 🎞️ Enthusiast of **Telegram-style** complex animations.
 - 🧊 Expert in **Blur effects** and **Collapsing Toolbar** transitions.
