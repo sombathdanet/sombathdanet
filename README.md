@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sombath%20Danet&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-### 📱 Mobile Developer & UI Motion Designer
+### 📱 Mobile Developer
 > Transforming complex logic into fluid, animated experiences.
 
 ---
